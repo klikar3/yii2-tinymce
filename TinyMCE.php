@@ -4,7 +4,8 @@ namespace moonland\tinymce;
 use yii\helpers\ArrayHelper;
 use yii\widgets\InputWidget;
 use yii\helpers\Html;
-use moonland\helpers\JSON;
+use yii\helpers\Json;
+//use moonland\helpers\JSON;
 /**
  * TinyMCE Extension.
  * TinyMCE is a platform independent web based Javascript HTML WYSIWYG editor control.
