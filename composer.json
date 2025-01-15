@@ -12,7 +12,7 @@
     ],
     "require": {
         "yiisoft/yii2": "*",
-        "klikar3t/helpers": "*"
+        "klikar3/helpers": "*"
     },
     "autoload": {
         "psr-4": {
