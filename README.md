@@ -1,4 +1,4 @@
-moonlandsoft/yii2-tinymce
+klikar3/yii2-tinymce
 =========================
 The TinyMCE Extension for yii framework
 
