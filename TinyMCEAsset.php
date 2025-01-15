@@ -1,11 +1,11 @@
 <?php
-namespace moonland\tinymce;
+namespace klikar3\tinymce;
 
 use yii\web\AssetBundle;
 
 class TinyMCEAsset extends AssetBundle
 {
-	public $sourcePath = '@moonland/tinymce/assets';
+	public $sourcePath = '@klikar3/tinymce/assets';
 	
 	public $css = [];
 	
