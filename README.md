@@ -12,13 +12,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist moonlandsoft/yii2-tinymce "*"
+php composer.phar require --prefer-dist klikar3/yii2-tinymce "*"
 ```
 
 or add
 
 ```
-"moonlandsoft/yii2-tinymce": "*"
+"klikar3/yii2-tinymce": "*"
 ```
 
 to the require section of your `composer.json` file.
@@ -30,7 +30,7 @@ Usage
 Once the extension is installed, simply use it in your code by  :
 
 ```php
-use moonland\tinymce\TinyMCE;
+use klikar3\tinymce\TinyMCE;
 
 echo TinyMCE::widget(['name' => 'text-content']);
 
